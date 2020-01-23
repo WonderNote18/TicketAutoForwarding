@@ -1,0 +1,22 @@
+<html>
+<body style="background: #FFEE99; border: 8px ridge #000000; padding: 15px 25px;">
+<h1 style="background: #8095FF; border: 10px groove #CCDDFF; padding: 5px 10px; text-align: center;"><span style="font-family:verdana,geneva,sans-serif;">POS Support</span></h1>
+
+<p><span style="font-family:verdana,geneva,sans-serif;">Your ticket regarding <strong>&quot;{insert_subject_here}&quot;</strong> has been entered into our support queue!</span></p>
+
+<p><span style="font-family:verdana,geneva,sans-serif;">One of our POS Specialists, <strong><u>{insert_name_here}</u></strong>, will be assisting you in resolving this issue, and may need to contact you for further details and information about this subject. </span></p>
+
+<p><span style="font-family:verdana,geneva,sans-serif;">Please use this email to reach out to the assigned specialist for any additional information that may be needed to your issue, or for any updates that you would like to provide. The specialist may also use this email to reach out to you for any specifics on this ticket.</span></p>
+
+<p><span style="font-family:verdana,geneva,sans-serif;">As a reminder, <strong><u>any emails forwarded or sent as replies will not be created as a ticket</u></strong>. If you wish to submit a ticket regarding an issue you are experiencing, please send a new email to POS Support.</span></p>
+
+<p><span style="font-family:verdana,geneva,sans-serif;">If you have any questions or concerns, or for issues that require immediate attention, please call the POS Support office number at <strong>(210) 921-7436</strong>.</span></p>
+
+<hr />
+<p><span style="font-family:tahoma,geneva,sans-serif;">Thank you,</span></p>
+
+<p><span style="font-family:tahoma,geneva,sans-serif;"><strong>POS Support</strong></span></p>
+
+<p><a href=""><img src="cid:SAS_Logo.jpg" style="height: 65px; width: 65px;" /></a></p>
+</body>
+</html>
